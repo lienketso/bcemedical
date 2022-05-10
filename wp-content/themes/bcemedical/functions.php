@@ -201,6 +201,7 @@ require get_template_directory() . '/inc/customizer.php';
 
 require get_template_directory() . '/framework/codestar/codestar-framework.php';
 require get_template_directory() . '/framework/codestar/sport-options.php';
+require get_template_directory() . '/framework/codestar/home-options.php';
 
 
 require get_template_directory() . '/libs/My_Walker_Nav_Menu.php';
